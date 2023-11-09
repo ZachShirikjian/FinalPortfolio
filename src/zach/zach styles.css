@@ -239,8 +239,8 @@ hr {
 
 .galleryimageVertical:hover{
   cursor: pointer;
-  animation-name:squish;
-  animation-duration:0.5s;
+  /* animation-name:squish;
+  animation-duration:0.5s; */
 }
 
 .graphicImage{
@@ -254,8 +254,8 @@ hr {
 
 .graphicImage:hover{
   cursor:pointer;
-  animation-name: squish;
-  animation-duration: 0.5s;
+  /* animation-name: squish;
+  animation-duration: 0.5s; */
 }
 
 .galleryimageHorizontal {
@@ -267,8 +267,8 @@ hr {
 
 .galleryimageHorizontal:hover {
   cursor: pointer;
-  animation-name:squish;
-  animation-duration:0.5s;
+  /* animation-name:squish;
+  animation-duration:0.5s; */
 }
 
 #FullImageView {
