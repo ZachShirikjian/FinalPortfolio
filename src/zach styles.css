@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-background-image:url("../../src/zach/Images/ScanLineBG.png");
+background-image:url("./Images/ScanLineBG.png");
 /* height: fit-content; */
 margin: 0;
 padding:0;
