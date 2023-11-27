@@ -9,6 +9,7 @@ margin: 0;
 padding:0;
 display: flex;
 flex-direction: column;
+overflow-x:hidden;
 /* border: 10px solid mediumslateblue; */
 /* background-repeat:repeat-y; */
 /* background-size: cover; */
